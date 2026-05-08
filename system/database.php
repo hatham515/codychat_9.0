@@ -12,10 +12,10 @@ define('REDIS_TIMEOUT', 0.2);
 define('REDIS_PASS', '');
 
 // you can edit these lines to configure new setting for your chat
-define('BOOM_DHOST', '');
-define('BOOM_DUSER', '');
-define('BOOM_DPASS', '');
-define('BOOM_DNAME', '');
+define('BOOM_DHOST', 'mysql.railway.internal');
+define('BOOM_DUSER', 'root');
+define('BOOM_DPASS', 'QiokqPQEDzMSHaGjnZnrxfYZyMltnXvF');
+define('BOOM_DNAME', 'railway');
 
 // base system main path do not modify
 define('BOOM_PATH', dirname(__DIR__));
