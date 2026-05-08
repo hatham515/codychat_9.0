@@ -22,6 +22,6 @@ define('BOOM_PATH', dirname(__DIR__));
 
 // do not modify those variables
 define('BOOM_CRYPT', '');
-define('BOOM_INSTALL', 0);
+define('BOOM_INSTALL', 1);
 define('BOOM', 1);
 ?>
